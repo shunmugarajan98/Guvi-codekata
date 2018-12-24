@@ -5,4 +5,4 @@ if(len(rep)==0):
 	print ("Unique")
 else:
 	x =sorted(rep)
-	print (x
+	print (x)
